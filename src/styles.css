@@ -30,6 +30,7 @@ body {
     font-weight: 300;
     position: relative;
     font-size: 1.3rem;
+    background-color: #4e6270;
 }
 #root {
     height: 100vh;
